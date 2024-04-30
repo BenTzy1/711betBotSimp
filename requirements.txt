@@ -1,5 +1,3 @@
-asyncio
-base64
 numpy
 python-telegram-bot
 requests
